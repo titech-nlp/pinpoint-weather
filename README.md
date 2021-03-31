@@ -9,13 +9,13 @@ See our paper for more information.
 :construction: We are preparing to release the weather comments, provided by [Weathernews Inc](https://global.weathernews.com/). (April. 2021)
 
 ### Numerical forecast maps
-We used numerical forecast maps as meteorological simulations around Japan simulated using the global spectral model (GSM), which is an NWP model, provided by the Japan Meteorological Agency. 
-:dvd: The numerical forecast maps are publicly available [here](http://database.rish.kyoto-u.ac.jp/arch/jmadata/gpv-original.html) (in Japanese).
+We used numerical forecast maps as meteorological simulations around Japan simulated using the global spectral model (GSM), which is an NWP model, provided by the Japan Meteorological Agency.  
+:dvd: The numerical forecast maps are publicly available [here](http://database.rish.kyoto-u.ac.jp/arch/jmadata/gpv-original.html) (in Japanese).  
 **※Note**: These data were collected and distributed by [Research Institute for Sustainable Humanosphere, Kyoto University](http://database.rish.kyoto-u.ac.jp/index-e.html). 
 
 
 ### Meteorological observation data
-We used meteorological observation data provided by the [AMeDAS]( http://www.jma.go.jp/en/amedas/), managed by [Japan Meteorological Agency](https://www.jma.go.jp/jma/indexe.html). Specifically, we use four physical quantities: precipitation, air temperature, wind speed, and sunshine duration. These quantities are sequential data observed every ten minutes at about 1300 stations across Japan. 
+We used meteorological observation data provided by the [AMeDAS]( http://www.jma.go.jp/en/amedas/), managed by [Japan Meteorological Agency](https://www.jma.go.jp/jma/indexe.html). Specifically, we use four physical quantities: precipitation, air temperature, wind speed, and sunshine duration. These quantities are sequential data observed every ten minutes at about 1300 stations across Japan.  
 :dvd: The meteorological observation data are publicly available [here](https://www.data.jma.go.jp/gmd/risk/obsdl/) as a csv file (in Japanese).
 
 ## Citation

@@ -1,3 +1,4 @@
 *.pyc
 model
 wncg_dataset
+dataset/gpvdata/

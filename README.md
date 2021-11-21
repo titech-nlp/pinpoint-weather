@@ -10,6 +10,8 @@ See our paper for more information.
 
 ### Numerical forecast maps
 We used numerical forecast maps as meteorological simulations around Japan simulated using the global spectral model (GSM), which is an NWP model, provided by the Japan Meteorological Agency.  
+Please see [here](./dataset/README.md) for a way to download and visualize the numerical weather map.
+
 :dvd: The numerical forecast maps are publicly available [here](http://database.rish.kyoto-u.ac.jp/arch/jmadata/gpv-original.html) (in Japanese).  
 **※Note**: These data were collected and distributed by [Research Institute for Sustainable Humanosphere, Kyoto University](http://database.rish.kyoto-u.ac.jp/index-e.html). 
 
